@@ -84,7 +84,7 @@ The project uses the following dependencies:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-travel-planner.git
+git clone https://github.com/karangupta01/ai-travel-planner.git
 cd ai-travel-planner
 ```
 
